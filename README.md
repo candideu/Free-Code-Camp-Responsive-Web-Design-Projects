@@ -28,7 +28,8 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 
 ### Helpful Tutorials:
 - [Pure CSS Custom Styled Radio Buttons](https://moderncss.dev/pure-css-custom-styled-radio-buttons/)
-- [One last time: custom styling radio buttons and checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html) 
+- [One last time: custom styling radio buttons and checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html)
+- [<select>: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 
 ### Live Demo:
 - Repo: 
