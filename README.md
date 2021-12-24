@@ -23,6 +23,8 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 
 ## Survey Form
 
+https://user-images.githubusercontent.com/55474996/147333369-b44573d0-0ceb-444e-ac1e-96e9908976c9.mp4
+
 ### Live Demo: https://candideu.github.io/FCC-Survey-Form/
 - [Repo](https://github.com/candideu/FCC-Survey-Form)
 - [Penpot design + prototype file](https://design.penpot.app/#/view/99d546a0-5980-11ec-a5ae-e949c75b760d?page-id=c0b18c70-5980-11ec-ad7e-61a9277ea3dd&index=0&share-id=f52d2860-62db-11ec-95ac-c2b142838c8b)
