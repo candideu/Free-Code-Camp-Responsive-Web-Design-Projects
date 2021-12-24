@@ -23,6 +23,10 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 
 ## Survey Form
 
+### Live Demo: https://candideu.github.io/FCC-Survey-Form/
+- [Repo](https://github.com/candideu/FCC-Survey-Form)
+- [Penpot design + prototype file](https://design.penpot.app/#/view/99d546a0-5980-11ec-a5ae-e949c75b760d?page-id=c0b18c70-5980-11ec-ad7e-61a9277ea3dd&index=0&share-id=f52d2860-62db-11ec-95ac-c2b142838c8b)
+
 ### Font Used:
 - [Inter](https://fonts.google.com/specimen/Inter)
 
@@ -32,7 +36,3 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 - [\<select>: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 - [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
 - [How to style the option of an html "select" element?](https://stackoverflow.com/questions/7208786/how-to-style-the-option-of-an-html-select-element#comment50495089_7208814)
-
-### Live Demo:
-- Repo: 
-- [Penpot design + prototype file](https://design.penpot.app/#/view/99d546a0-5980-11ec-a5ae-e949c75b760d?page-id=c0b18c70-5980-11ec-ad7e-61a9277ea3dd&index=0&share-id=f52d2860-62db-11ec-95ac-c2b142838c8b)
