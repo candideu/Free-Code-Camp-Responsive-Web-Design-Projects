@@ -31,6 +31,7 @@ I decided to create a page for the amazing [Tierra Whack](https://www.youtube.co
 - [One last time: custom styling radio buttons and checkboxes](https://www.scottohara.me/blog/2021/09/24/custom-radio-checkbox-again.html)
 - [\<select>: The HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select)
 - [Custom Select Styles with Pure CSS](https://moderncss.dev/custom-select-styles-with-pure-css/)
+- [How to style the option of an html "select" element?](https://stackoverflow.com/questions/7208786/how-to-style-the-option-of-an-html-select-element#comment50495089_7208814)
 
 ### Live Demo:
 - Repo: 
